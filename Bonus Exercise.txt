@@ -1,0 +1,28 @@
+-- Student Grade Calculator --
+
+Goal:
+    Ask for:
+    - Student name
+    - Three grades
+    - Calculate the average and display whether the student passed.
+
+Example Result:
+---------------------------
+    Student name: Milo
+    Grade 1: 90
+    Grade 2: 85
+    Grade 3: 95
+    Average: 90
+
+    Status: Passed
+---------------------------
+
+What you'll learn:
+    - This combines:
+        - Input
+        - Variables
+        - Math
+        - Conditions
+        - Output
+
+It's one of the first programs that feels like a real application.
