@@ -1,0 +1,15 @@
+-- Shopping Cart Total --
+
+Goal:
+    Ask for the price of 3 items and display the total cost.
+
+Example Result:
+---------------------------
+    Price of item 1: 10
+    Price of item 2: 20
+    Price of item 3: 15
+    Total: 45
+---------------------------
+
+What you'll learn:
+    - How variables can represent real-world data and how calculations combine them.
