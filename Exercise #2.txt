@@ -1,0 +1,22 @@
+--Simple Calculator--
+
+Goal: Ask for two numbers and display:
+- Sum
+- Subtraction
+- Multiplication
+- Division
+
+Example Result:
+    Enter first number: 10
+    Enter second number: 5
+
+On terminal result:
+---------------------------
+    Sum: 15
+    Subtraction: 5
+    Multiplication: 50
+    Division: 2
+---------------------------
+
+What you'll learn:
+- How to perform basic mathematical operations with variables.
