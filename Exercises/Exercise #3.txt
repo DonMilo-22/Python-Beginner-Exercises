@@ -1,0 +1,14 @@
+--Even or Odd Checker--
+
+Goal:
+    Ask the user for a number and determine whether it is even or odd.
+
+On terminal result:
+---------------------------
+    Enter a number: 17
+    17 is odd.
+---------------------------
+
+What you'll learn:
+- How to use conditions (if).
+- How to use the modulus operator (%).

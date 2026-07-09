@@ -1,0 +1,20 @@
+--Greeting Program--
+
+Goal: Ask the user for their name and greet them.
+
+Concepts:
+- Variables
+- User input
+- Output (print)
+
+Example Result:
+    What is your name? Milo
+
+On terminal result:
+---------------------------
+    Hello, Milo!
+    Welcome to Python.
+---------------------------
+
+What you'll learn:
+- How to store information entered by the user and display it later.
